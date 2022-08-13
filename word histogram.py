@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt; plt.rcdefaults()
 import xlwt
 
 count = 0; i=0; j=0; a=[] ;s=""
-
+xxx=100;
 # READ TEXT FROM FILE
 
 Path = "/Users/omarezzat/myGITrepo/word-histogram/"
