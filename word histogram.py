@@ -10,6 +10,7 @@ import xlwt
 
 count = 0; i=0; j=0; a=[] ;s=""
 xxx=100;
+yyy=200;
 # READ TEXT FROM FILE
 
 Path = "/Users/omarezzat/myGITrepo/word-histogram/"
